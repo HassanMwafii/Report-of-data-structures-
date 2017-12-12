@@ -1,3 +1,9 @@
+                                                  Hassan Ahmed Mahmoud
+                                                  
+                                  https://github.com/HassanMwafii/Report-of-data-structures-
+
+                           The Relation Between Data structures & Database Management System (DBMS)
+
 In today’s era every person is directly or indirectly connected with the concepts of data structures and database and they consider both of these concepts as different. But the reality is that, database and data structure have some relationship between them.
 
 No doubt database is a collection of data which can be stored, updated, data can be retrieved any time when required. But when it comes to store data in database many decision about, how data will be stored? How efficiently data can be retrieved from database? How efficiently the data in database can be modified and many such questions arise.
